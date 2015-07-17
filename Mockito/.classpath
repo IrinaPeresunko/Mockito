@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Irina/.m2/repository/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5.jar" sourcepath="C:/Users/Irina/.m2/repository/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Irina/.m2/repository/org/objenesis/objenesis/1.0/objenesis-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
